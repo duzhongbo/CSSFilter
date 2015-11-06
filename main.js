@@ -1,0 +1,6 @@
+var CreateCSSStyleSheet={
+	main:function(){
+		
+	}
+
+}
